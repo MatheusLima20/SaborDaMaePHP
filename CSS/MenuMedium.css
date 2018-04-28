@@ -1,0 +1,34 @@
+
+
+li > a {
+    
+    text-decoration: none;
+    
+}
+
+ul > li{
+    
+    text-align: center;
+    list-style: none;
+    float: left;
+    margin-left: 7%;
+        
+}
+
+li > a{ color: #000; }
+
+#menuTop > ul{
+    
+    margin-left: 20%;
+    
+}
+
+#menuTop{
+    
+    text-align: center;
+    font-size: 170%;    
+    background: #f9e302;
+    width: auto;
+    height: 18%;
+    
+}

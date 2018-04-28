@@ -1,0 +1,19 @@
+
+
+.main-header{
+    
+    background-color: #ED3237;
+    
+}
+
+#logo_top{
+    text-align: center;
+}
+
+body{
+    
+    margin: 0 auto;
+    background-image: url("../Imgs/plano_de_fundo.fw.png");
+    background-image: repeating-linear-gradient;
+    
+}
